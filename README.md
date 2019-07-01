@@ -28,6 +28,8 @@
 #### from sklearn.metrics import mean_squared_error
 #### from sklearn.metrics import confusion_matrix
 #### from sklearn.preprocessing import StandardScaler
+#### from sklearn.ensemble import RandomForestClassifier
+#### from sklearn.metrics import classification_report,confusion_matrix
 #### from sklearn import metrics
 #### import statsmodels.api as sm
 #### import ijson
@@ -56,4 +58,6 @@
 #### Can you determine the age of the building from the PLUTO dataset?
 #### Question 4 - Predict Complaint Types
 #### Can a predictive model be built for future prediction of the possibility of complaints of the specific type that you identified in response to Question 1?
+#### Decision Tree
+#### Random Forest
 #### Can the model that you developed use Number of Floors in an address as a possible predictive feature?
